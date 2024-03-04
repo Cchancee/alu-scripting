@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+""" 0-subs.py """
+
 import requests
 
 # Define the User-Agent header as a constant
