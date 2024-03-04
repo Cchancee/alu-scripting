@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-""" 0-subs.py """
+"""
+Contains the number_of_subscribers function
+"""
 
 import requests
 
