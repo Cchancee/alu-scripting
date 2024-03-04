@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-"""
-Contains the number_of_subscribers function
-"""
+"""A simple script to get the number of subscribers for a given subreddit."""
 
 import requests
 
